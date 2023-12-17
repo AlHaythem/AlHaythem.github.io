@@ -16,8 +16,8 @@ title = "Blue oyster cult"
 [author]
   name = "Blue Oyster Cult"
   image = "img/blowfish_logo.png"
-  headline = "A powerful, lightweight theme for Hugo built with Tailwind CSS."
-  bio = "A powerful, lightweight theme for Hugo built with Tailwind CSS."
+  headline = "新闻学大三学生，未来卵客记者"
+  bio = "新闻学大三学生，未来卵客记者"
   links = [
     { twitter = "https://twitter.com/burufugu" },
     { mastodon = "https://masto.ai/@blowfish" },
