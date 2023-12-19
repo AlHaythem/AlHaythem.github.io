@@ -13,7 +13,7 @@ hasCJKLanguage = true
 home = ["HTML", "RSS", "Algolia"]
 
 [params]
-  header_image = "img/bj.jpg"
+  header_image = "/img/图片9.png"
 
 
   #image_404 = "img/404-bg.jpg"
